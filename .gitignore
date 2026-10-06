@@ -1,0 +1,9 @@
+# Build output and editor files
+build/
+out/
+.vscode/
+
+# Local credentials must never be committed
+.env
+.env.*
+*.local
