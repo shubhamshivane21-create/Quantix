@@ -7,3 +7,6 @@ out/
 .env
 .env.*
 *.local
+
+# Railway keeps runtime values in its own Variables screen.
+railway.toml

@@ -1,0 +1,7 @@
+.git
+build
+out
+.vscode
+.env
+.env.*
+*.local
